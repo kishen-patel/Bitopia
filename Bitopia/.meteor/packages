@@ -24,3 +24,4 @@ aldeed:simple-schema
 accounts-password
 accounts-base
 iron:router
+twbs:bootstrap
